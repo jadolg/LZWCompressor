@@ -9,6 +9,8 @@ import java.util.Hashtable;
 public final class lzw {
 
     public static int MAX_DICT = 65536;
+    
+    
 
     public static char characterFor(int i) {
         char c = '\u0000';
